@@ -25,9 +25,9 @@
             height: 100px;
         }
         header .profile-pic {
-            width: 80px;
-            height: 80px;
-            border-radius: 50%;
+            width: 120px;
+            height: 120px;
+            border-radius: 70%;
             overflow: hidden;
             border: 5px solid #ff4758;
             background-color: #fff;
